@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>io.github.wonsunahn</groupId>
-  <artifactId>cs1632-cicd-docker</artifactId>
+  <artifactId>cs1632-cicd-docker-mgw42</artifactId>
   <version>1.2</version>
   <packaging>jar</packaging>
 
